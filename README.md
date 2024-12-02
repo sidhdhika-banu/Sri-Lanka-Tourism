@@ -28,4 +28,4 @@ This is still a work in progress. The front-end is complete, but the website is 
 ### Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/srilankan-tourism-website.git
+   git clone https://sidhdhika-banu.github.io/Sri-Lanka-Tourism/
